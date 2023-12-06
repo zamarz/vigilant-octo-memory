@@ -17,7 +17,7 @@
           <nav class="main-navigation">
             <ul>
               <li><a href="<?php echo site_url('/about-me'); ?>">About Me</a></li>
-              <li><a href="#">Projects</a></li>
+              <li><a href="<?php echo site_url('/projects'); ?>">Projects</a></li>
               <li><a href="#">Tech Stack</a></li>
               <li><a href="#">My Articles</a></li>
               <li><a href="#">Contact Me</a></li>
