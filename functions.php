@@ -17,7 +17,10 @@ function portfolio_files() {
 add_action('wp_enqueue_scripts', 'portfolio_files');
 //portfolio instead of uni
 
+function portfolio_features() {
+    add_theme_support('title-tag');
+}
 
-
+add_action('after_setup_theme', 'portfolio_features');
 
 ?>
