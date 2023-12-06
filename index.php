@@ -3,17 +3,16 @@
   <div class="page-banner">
       <div class="page-banner__bg-image" style="background-image: url(<?php echo get_theme_file_uri('/images/library-hero.jpg'); ?>)"></div>
       <div class="page-banner__content container t-center c-white">
-        <h1 class="headline headline--large">Welcome!</h1>
-        <h2 class="headline headline--medium">We think you&rsquo;ll like it here.</h2>
-        <h3 class="headline headline--small">Why don&rsquo;t you check out the <strong>major</strong> you&rsquo;re interested in?</h3>
-        <a href="#" class="btn btn--large btn--blue">Find Your Major</a>
+        <h1 class="headline headline--large">Hi, I'm Zach</h1>
+        <h3 class="headline headline--small">I'm an enthusiastic developer keen to delve deeper into the tech world and continue my development journey.</h3>
+        <a href="#" class="btn btn--large btn--blue">Learn more about me</a>
       </div>
     </div>
 
     <div class="full-width-split group">
       <div class="full-width-split__one">
         <div class="full-width-split__inner">
-          <h2 class="headline headline--small-plus t-center">Upcoming Events</h2>
+          <h2 class="headline headline--small-plus t-center">My latest projects</h2>
 
           <div class="event-summary">
             <a class="event-summary__date t-center" href="#">
@@ -36,12 +35,12 @@
             </div>
           </div>
 
-          <p class="t-center no-margin"><a href="#" class="btn btn--blue">View All Events</a></p>
+          <p class="t-center no-margin"><a href="#" class="btn btn--blue">View All Projects</a></p>
         </div>
       </div>
       <div class="full-width-split__two">
         <div class="full-width-split__inner">
-          <h2 class="headline headline--small-plus t-center">From Our Blogs</h2>
+          <h2 class="headline headline--small-plus t-center">Articles I've written</h2>
 
           <div class="event-summary">
             <a class="event-summary__date event-summary__date--beige t-center" href="#">
@@ -64,7 +63,7 @@
             </div>
           </div>
 
-          <p class="t-center no-margin"><a href="#" class="btn btn--yellow">View All Blog Posts</a></p>
+          <p class="t-center no-margin"><a href="#" class="btn btn--yellow">See All Articles</a></p>
         </div>
       </div>
     </div>
