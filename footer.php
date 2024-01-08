@@ -5,7 +5,6 @@
             <h1 class="school-logo-text school-logo-text--alt-color">
               <a href="<?php echo site_url('/'); ?>"><strong>Zach</strong> Marzouk</a>
             </h1>
-            <p><a class="site-footer__link" href="#">555.555.5555</a></p>
           </div>
 
           <div class="site-footer__col-two-three-group">
@@ -13,10 +12,8 @@
               <h3 class="headline headline--small">Explore</h3>
               <nav class="nav-list">
                 <ul>
-                  <li><a href="<?php echo site_url('/about-me'); ?>">About Me</a></li>
                   <li><a href="<?php echo site_url('/projects'); ?>">Projects</a></li>
-                  <li><a href="#">Events</a></li>
-                  <li><a href="#">Campuses</a></li>
+                  <li><a href="#">Tech Stack</a></li>
                 </ul>
               </nav>
             </div>
@@ -25,32 +22,22 @@
               <h3 class="headline headline--small">Learn</h3>
               <nav class="nav-list">
                 <ul>
-                  <li><a href="#">Legal</a></li>
-                  <li><a href="<?php echo site_url('/privacy-policy'); ?>">Privacy</a></li>
-                  <li><a href="#">Careers</a></li>
+                <li><a href="<?php echo site_url('/about-me'); ?>">About Me</a></li>
+                  <li><a href="#">Contact Me</a></li>
                 </ul>
               </nav>
             </div>
           </div>
 
           <div class="site-footer__col-four">
-            <h3 class="headline headline--small">Connect With Us</h3>
+            <h3 class="headline headline--small">Connect With Me</h3>
             <nav>
               <ul class="min-list social-icons-list group">
                 <li>
-                  <a href="#" class="social-color-facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                  <a href="https://github.com/zamarz" target="_blank" class="social-color-github"><i class="fa fa-github" aria-hidden="true"></i></a>
                 </li>
                 <li>
-                  <a href="#" class="social-color-twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                </li>
-                <li>
-                  <a href="#" class="social-color-youtube"><i class="fa fa-youtube" aria-hidden="true"></i></a>
-                </li>
-                <li>
-                  <a href="#" class="social-color-linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-                </li>
-                <li>
-                  <a href="#" class="social-color-instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                  <a href="https://uk.linkedin.com/in/zachmarzouk" target="_blank" class="social-color-linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
                 </li>
               </ul>
             </nav>
