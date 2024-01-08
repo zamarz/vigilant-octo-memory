@@ -13,7 +13,7 @@
               <nav class="nav-list">
                 <ul>
                   <li><a href="<?php echo site_url('/projects'); ?>">Projects</a></li>
-                  <li><a href="#">Tech Stack</a></li>
+                  <li><a href="<?php echo site_url('/tech-stack'); ?>">Tech Stack</a></li>
                 </ul>
               </nav>
             </div>
