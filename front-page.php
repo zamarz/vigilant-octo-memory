@@ -5,7 +5,7 @@
       <div class="page-banner__content container t-center c-white">
         <h1 class="headline headline--large">Hi, I'm Zach</h1>
         <h3 class="headline headline--small">I'm an enthusiastic developer keen to delve deeper into the tech world and continue my development journey.</h3>
-        <a href="#" class="btn btn--large btn--blue">Learn more about me</a>
+        <a href="<?php echo site_url('/about-me'); ?>" class="btn btn--large btn--blue">Learn more about me</a>
       </div>
     </div>
 
