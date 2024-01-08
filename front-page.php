@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 
   <div class="page-banner">
-      <div class="page-banner__bg-image" style="background-image: url(<?php echo get_theme_file_uri('/images/library-hero.jpg'); ?>)"></div>
+      <div class="page-banner__bg-image" style="background-image: url(<?php echo get_theme_file_uri('/images/Typing_Unsplash.jpg'); ?>)"></div>
       <div class="page-banner__content container t-center c-white">
         <h1 class="headline headline--large">Hi, I'm Zach</h1>
         <h3 class="headline headline--small">I'm an enthusiastic developer keen to delve deeper into the tech world and continue my development journey.</h3>
