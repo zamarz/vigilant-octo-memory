@@ -13,6 +13,8 @@ while(have_posts()) {
       </div>
     </div>
 
+
+
     <div class="container container--narrow page-section">
       <div class="metabox metabox--position-up metabox--with-home-link">
         <p>
@@ -21,6 +23,14 @@ while(have_posts()) {
       </div>
 
       <div class="generic-content">
+      <div class="container container--narrow page-section">
+    <div class="generic-content">
+        <div class="row group">
+          <div class="one-third">
+            <?php the_post_thumbnail(); ?>
+            </div>
+        </div>
+    </div>
         <?php the_content(); ?>
       </div>
     </div>
