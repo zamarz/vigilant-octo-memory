@@ -53,8 +53,8 @@
               <span class="event-summary__day">20</span>
             </a>
             <div class="event-summary__content">
-              <h5 class="event-summary__title headline headline--tiny"><a href="#">We Were Voted Best School</a></h5>
-              <p>For the 100th year in a row we are voted #1. <a href="#" class="nu gray">Read more</a></p>
+              <h5 class="event-summary__title headline headline--tiny"><a href="https://www.itpro.com/business-strategy/startups/361311/why-does-japan-lag-behind-on-startups" target="_blank">Why does Japan lag behind on startups?</a></h5>
+              <p> The country has a reputation as a tech leader, but its startup ecosystem has yet to achieve its potential . <a href="https://www.itpro.com/business-strategy/startups/361311/why-does-japan-lag-behind-on-startups" target="_blank" class="nu gray">Read more</a></p>
             </div>
           </div>
           <div class="event-summary">
@@ -63,8 +63,8 @@
               <span class="event-summary__day">04</span>
             </a>
             <div class="event-summary__content">
-              <h5 class="event-summary__title headline headline--tiny"><a href="#">Professors in the National Spotlight</a></h5>
-              <p>Two of our professors have been in national news lately. <a href="#" class="nu gray">Read more</a></p>
+              <h5 class="event-summary__title headline headline--tiny"><a href="https://www.itpro.com/technology/artificial-intelligence-ai/359765/with-ai-on-the-rise-is-it-time-to-join-a-union" target="_blank"> With AI on the rise, is it time to join a union? </a></h5>
+              <p> Workplace challenges posed by new technology could be answered by very traditional solutions <a href="https://www.itpro.com/technology/artificial-intelligence-ai/359765/with-ai-on-the-rise-is-it-time-to-join-a-union" target="_blank"class="nu gray">Read more</a></p>
             </div>
           </div>
 
