@@ -48,20 +48,14 @@
           
 
           <div class="event-summary">
-            <a class="event-summary__date event-summary__date--beige t-center" href="#">
-              <span class="event-summary__month">Jan</span>
-              <span class="event-summary__day">20</span>
-            </a>
+          <img src="<?php echo get_theme_file_uri('/images/Japan_image_unsplash.jpg'); ?>">
             <div class="event-summary__content">
               <h5 class="event-summary__title headline headline--tiny"><a href="https://www.itpro.com/business-strategy/startups/361311/why-does-japan-lag-behind-on-startups" target="_blank">Why does Japan lag behind on startups?</a></h5>
               <p> The country has a reputation as a tech leader, but its startup ecosystem has yet to achieve its potential . <a href="https://www.itpro.com/business-strategy/startups/361311/why-does-japan-lag-behind-on-startups" target="_blank" class="nu gray">Read more</a></p>
             </div>
           </div>
           <div class="event-summary">
-            <a class="event-summary__date event-summary__date--beige t-center" href="#">
-              <span class="event-summary__month">Feb</span>
-              <span class="event-summary__day">04</span>
-            </a>
+                 <img src="<?php echo get_theme_file_uri('/images/Typing_Unsplash.jpg'); ?>">
             <div class="event-summary__content">
               <h5 class="event-summary__title headline headline--tiny"><a href="https://www.itpro.com/technology/artificial-intelligence-ai/359765/with-ai-on-the-rise-is-it-time-to-join-a-union" target="_blank"> With AI on the rise, is it time to join a union? </a></h5>
               <p> Workplace challenges posed by new technology could be answered by very traditional solutions <a href="https://www.itpro.com/technology/artificial-intelligence-ai/359765/with-ai-on-the-rise-is-it-time-to-join-a-union" target="_blank"class="nu gray">Read more</a></p>
@@ -73,7 +67,7 @@
       </div>
     </div>
 
-    <div class="hero-slider">
+    <!-- <div class="hero-slider">
       <div data-glide-el="track" class="glide__track">
         <div class="glide__slides">
           <div class="hero-slider__slide" style="background-image: url(<?php echo get_theme_file_uri('/images/bus.jpg'); ?>)">
@@ -106,7 +100,7 @@
         </div>
         <div class="slider__bullets glide__bullets" data-glide-el="controls[nav]"></div>
       </div>
-    </div>
+    </div> -->
 
 
 <?php
