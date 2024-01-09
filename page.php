@@ -9,7 +9,6 @@ while(have_posts()) {
       <div class="page-banner__content container container--narrow">
         <h1 class="page-banner__title"><?php the_title(); ?></h1>
         <div class="page-banner__intro">
-          <p>This is some of the tech I work with</p>
         </div>
       </div>
     </div>
