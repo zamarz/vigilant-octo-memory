@@ -2,7 +2,7 @@
 
 I created a new mock portfolio using Wordpress, PHP, and Sass. This is based on a PHP course I completed. Please note, this site is not currently hosted online.
 
-![Home](images/GitHub/Home.png){width=200 height=200}
+![Home](images/GitHub/Home.png){:width="200px" height="200px"}
 
 ![Home](images/GitHub/Home2.png =200x200)
 
