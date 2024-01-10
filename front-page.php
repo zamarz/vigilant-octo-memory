@@ -27,7 +27,7 @@
            <div class="event-summary">
             <a  href="<?php the_permalink(); ?>">
 
-              <?php the_post_thumbnail(); ?>
+              <?php the_post_thumbnail('medium'); ?>
             </a>
             <div class="event-summary__content">
               <h5 class="event-summary__title headline headline--tiny"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h5>
@@ -48,14 +48,14 @@
           
 
           <div class="event-summary">
-          <img src="<?php echo get_theme_file_uri('/images/Japan_image_unsplash.jpg'); ?>">
+          <img src="<?php echo get_theme_file_uri('/images/Japan_image_unsplash.jpg'); ?>" width="300" height="300">
             <div class="event-summary__content">
               <h5 class="event-summary__title headline headline--tiny"><a href="https://www.itpro.com/business-strategy/startups/361311/why-does-japan-lag-behind-on-startups" target="_blank">Why does Japan lag behind on startups?</a></h5>
               <p> The country has a reputation as a tech leader, but its startup ecosystem has yet to achieve its potential . <a href="https://www.itpro.com/business-strategy/startups/361311/why-does-japan-lag-behind-on-startups" target="_blank" class="nu gray">Read more</a></p>
             </div>
           </div>
           <div class="event-summary">
-                 <img src="<?php echo get_theme_file_uri('/images/Typing_Unsplash.jpg'); ?>">
+                 <img src="<?php echo get_theme_file_uri('/images/Typing_Unsplash.jpg'); ?>" width="300" height="300">
             <div class="event-summary__content">
               <h5 class="event-summary__title headline headline--tiny"><a href="https://www.itpro.com/technology/artificial-intelligence-ai/359765/with-ai-on-the-rise-is-it-time-to-join-a-union" target="_blank"> With AI on the rise, is it time to join a union? </a></h5>
               <p> Workplace challenges posed by new technology could be answered by very traditional solutions <a href="https://www.itpro.com/technology/artificial-intelligence-ai/359765/with-ai-on-the-rise-is-it-time-to-join-a-union" target="_blank"class="nu gray">Read more</a></p>
