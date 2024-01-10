@@ -2,15 +2,15 @@
 
 I created a new mock portfolio using Wordpress, PHP, and Sass. This is based on a PHP course I completed. Please note, this site is not currently hosted online.
 
-<img src="images/GitHub/Home.png" width="200" height="200"/>
+<img src="images/GitHub/Home.png" width="300" height="300"/>
 
-![Home](images/GitHub/Home2.png =200x200)
+<img src="images/GitHub/Home2.png" width="300" height="300"/>
 
-![Home](images/GitHub/Home3.png =200x200)
+<img src="images/GitHub/Home3.png" width="300" height="300"/>
 
-![Home](images/GitHub/Tech-Stack.png =200x200)
+<img src="images/GitHub/Tech-Stack.png" width="300" height="300"/>
 
-![Home](images/GitHub/Contact-Me.png =200x200)
+<img src="images/GitHub/Contact-Me.png" width="300" height="300"/>
 
 # How to use
 
