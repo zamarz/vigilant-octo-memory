@@ -8,7 +8,7 @@ To view the project, follow these steps:
 
 Clone the repository onto your local system:
 
-> git clone <repository-url>
+```git clone <repository-url>```
 
 1. Set up a local development environment:
         Ensure you have Local by Flywheel installed on your system.
